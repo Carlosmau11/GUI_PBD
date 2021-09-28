@@ -52,7 +52,7 @@ namespace GUI_PBD
 			// 
 			this.btnAlumnoEmpresa.Image = global::GUI_PBD.Properties.Resources.AlumnoEmpresa;
 			this.btnAlumnoEmpresa.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-			this.btnAlumnoEmpresa.Location = new System.Drawing.Point(586, 223);
+			this.btnAlumnoEmpresa.Location = new System.Drawing.Point(587, 223);
 			this.btnAlumnoEmpresa.Name = "btnAlumnoEmpresa";
 			this.btnAlumnoEmpresa.Size = new System.Drawing.Size(95, 88);
 			this.btnAlumnoEmpresa.TabIndex = 3;
